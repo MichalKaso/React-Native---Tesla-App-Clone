@@ -14,16 +14,8 @@
 
 
 ##  :beginner: About
-Broken String is a fully responsive, modern, full stack, ecommerce application with real time payment integration. 
-Modern design, animations, the ability to add and delete products as you please using a content management system (Sanity). 
-Advanced cart functionalities and most importantly, complete integration with Stripe, covering real payments.
-
-- React Practices: [ Folder & File Structure ], [ Hooks & Refs ] 
-- App State Management : [ React Context API ]
-- Next JS Practices: [ File - Based Routing ], [ Data Fetching: (server side rendering; static generation) ] 
-- Next JS : [ Backend Endpoint ] 
-- Stripe Practices: [ Payments ], [ Products ], [ Shipping Rates ], [ Entire Checkout Process ] 
-- Sanity Practices: [ Manage App Content ] 
+Tsla App Clone is a responsive frontend clone, displaying the main features, brake-off scroll-down, and interactive buttons.   
+Built in VSC, using ReactJs, React Native, Expo as well as Expo Go App for mobile deployment. 
 
 
 ##  :wrench: Usage Tips:
@@ -36,7 +28,7 @@ https://expo.dev/@michalkaso/tesla-app
 
 <a href="" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Rh8sXgBQ/photo-2022-10-15-14-52-16.jpg" alt="js" width="200" height="400"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/d31Q8VsZ/photo-2022-10-15-14-52-20.jpg" alt="js" width="200" height="400"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Y0sr8B0n/photo-2022-10-15-14-52-21.jpg.jpg" alt="js" width="200" height="400"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/Y0sr8B0n/photo-2022-10-15-14-52-21.jpg" alt="js" width="200" height="400"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/BZYnJHpT/photo-2022-10-15-14-52-23.jpg" alt="js" width="200" height="400"/> </a>
 
 
